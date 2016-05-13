@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Autor: MyString
+  Genero: MyString
+  Lanzamiento: 2016-05-13
+  Duracion: 2016-05-13
+
+two:
+  Autor: MyString
+  Genero: MyString
+  Lanzamiento: 2016-05-13
+  Duracion: 2016-05-13
